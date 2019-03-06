@@ -13,7 +13,7 @@ Para iniciarte, debes tener en cuenta la guía de desarrollo de sistemas en el q
 1.- Instalar el servidor web con la aplicación XAAMP <br>
 2.- Crear la BD bd_planilla, Descargar script copleto aqui. <br>
 3.- Descargar la aplicación completa.<br>
-4.- Configurar el archivo de conexión: config.php ubicado en la carpeta "incluye"<br>
+4.- Configurar el archivo de conexión: config.php ubicado en la carpeta "include"<br>
 
 Creado por José Fernández Maluquis. <br>
 jeefernandez@gmail.com <br>
